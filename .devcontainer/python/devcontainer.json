@@ -19,7 +19,8 @@
             "pipenv",
             "virtualenv",
             "pytest",
-            "pylint"
+            "pylint",
+            "pandas"
           ]
       }
     },
